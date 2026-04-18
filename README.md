@@ -9,7 +9,6 @@ An end-to-end Power BI solution analysing employee attrition and workforce trend
 ### Page 1 — Attrition Overview
 Executive summary of attrition across the organisation with drill-down by department, age band, job role, tenure, and satisfaction score.
 
-[Page 1]
 <img width="607" height="340" alt="image" src="https://github.com/user-attachments/assets/e7126eef-3fe4-46ae-9284-fe4e2724fea7" />
 
 **Key visuals:**
@@ -24,7 +23,6 @@ Sales Representatives have the highest attrition at 39.8%. Employees in their fi
 ### Page 2 — Workforce Analytics
 Deep dive into headcount composition, salary distribution, and satisfaction heatmap by department.
 
-[Page 2]
 <img width="608" height="340" alt="image" src="https://github.com/user-attachments/assets/3a755012-944f-470f-bf9c-14568ca6789d" />
 
 **Key visuals:**
@@ -40,9 +38,7 @@ Sales department has the lowest satisfaction scores across all 4 satisfaction di
 ### Page 3 — Scenario Planner
 Interactive what-if analysis allowing HR leaders to model the impact of salary increases, new hires, and training investments on projected attrition.
 
-[Page 3]
 <img width="609" height="295" alt="image" src="https://github.com/user-attachments/assets/2185fd49-75cd-4d61-bf5b-98d4d37abd38" />
-
 
 **Key visuals:**
 - 3 interactive what-if sliders — Salary Increase %, New Hires Planned, Training Budget ($K)
@@ -85,6 +81,7 @@ A 10% salary increase combined with $200K training investment is projected to re
 3. Open `HR_Attrition_Dashboard.pbix` in Power BI Desktop
 4. If prompted, update the data source path to your local CSV file
 5. Click **Refresh** to load data
+
 
 ## Author
 **[Aasritha Jasty]** — [LinkedIn](www.linkedin.com/in/aasrithajasty01) | [GitHub](https://github.com/aasritha-j)
